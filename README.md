@@ -8,7 +8,7 @@ I like the food for it spice in **flavor**. **Mostly I just like the taste of Pe
 ---
 
 ## People that can make the food
-#### AS this is a family food and not something a restaurants
+#### AS this is a family food and not something a restaurants would service.
 1. Mom at home
 2. Grandmam at Grandmam house
 3. no where else or people
