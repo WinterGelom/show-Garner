@@ -6,6 +6,8 @@ My favorite movie is Battleship. The reason that it my favorite movie is because
 
 ---
 
+## Actors that could Replace Taylor Kitsch
+
 This table are Actor that I suggest should play the role beside the main actor Taylor Kitsch.
 
 | Actor Name | Reason Why | Actor Age |
@@ -16,3 +18,11 @@ This table are Actor that I suggest should play the role beside the main actor T
 | Tom Hanks | He has multiple years of exprience in military movies. | 68 |
 
 ---
+
+## Favorite Quotes
+
+President John F. Kennedy
+> Ask not whay your country can do for you; ask what you can do for your country.
+
+Henry Ford
+> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
