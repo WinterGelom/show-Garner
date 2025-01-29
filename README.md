@@ -18,3 +18,20 @@ I like the food for it spice in **flavor**. **Mostly I just like the taste of Pe
 * Black Eyed peas
 
 [My favorite movie](MyMovie.md)
+
+---
+
+## Merging Dictionaries
+
+This code is used to merge two or more dicitoaries in python.
+
+```
+def merge_dicts(*dicts):
+    Super_dict = {}
+    for dict in dicts:
+        for k, v in dict.items():
+            super_dict[k] = v
+return super_dict
+```
+
+[For More information](https://code.pieces.app/collections/python)
